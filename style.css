@@ -1,0 +1,29 @@
+
+body {
+    background-image: url("https://app.meetsoci.com/uploads/account/1585/sqUDY-2MP2M.png");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+
+}
+
+.container { 
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+}
+
+#sidebar {
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+}
+
+.sidebar-header {
+    padding-left: 10px;
+}
+
+.link {
+    color: grey;
+}
